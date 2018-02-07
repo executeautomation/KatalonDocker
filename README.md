@@ -2,7 +2,7 @@
 This repo contains information and source code for running Katalon Studio on Docker container image.
 
 # Related video demontration
-You can check out the complete video demo on running Katalon studio on Docker container image from here
+You can check out the complete video demo running Katalon studio on Docker container image from here
 
 https://www.youtube.com/watch?v=0FX8nQhosMM
 
